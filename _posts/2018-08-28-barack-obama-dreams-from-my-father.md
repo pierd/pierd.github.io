@@ -3,6 +3,12 @@ title: Barack Obama "Dreams From My Father"
 layout: post
 categories: books
 ---
+![Cover]({{ "/assets/barack-obama-dreams-from-my-father.jpg" | absolute_url }})
+
+[on Goodreads](https://www.goodreads.com/book/show/2719592-dreams-from-my-father)
+
+---
+
 > She had taught me to disdain the blend of ignorance and arrogance that too often characterized Americans abroad.
 > - Obama about his mother.
 
