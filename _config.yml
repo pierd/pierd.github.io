@@ -4,3 +4,5 @@ exclude:
   - scripts
 
 author: Kuba
+
+google_analytics: UA-124804381-1
