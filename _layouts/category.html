@@ -3,5 +3,5 @@ layout: default
 ---
 
 {% for post in site.categories[page.category] %}
-    {{ post.date | date_to_string }} <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    {{ post.date | date_to_string }} <a href="{{ post.url | absolute_url }}">{{ post.title }}</a><br/>
 {% endfor %}
