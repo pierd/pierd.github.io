@@ -2,7 +2,7 @@ author: Kuba
 collections:
   knowledge:
     output: true
-google_analytics: UA-124804381-1
 exclude:
   - scripts
+google_analytics: UA-124804381-1
 theme: jekyll-theme-hacker
