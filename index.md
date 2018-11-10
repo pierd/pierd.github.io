@@ -1,6 +1,5 @@
 ---
 ---
-Welcome to my website. There's not much here yet.
 
 # Knowledge
 [enter...]({{ "/knowledge" | absolute_url }})

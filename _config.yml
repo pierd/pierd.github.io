@@ -5,4 +5,4 @@ collections:
 exclude:
   - scripts
 google_analytics: UA-124804381-1
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
