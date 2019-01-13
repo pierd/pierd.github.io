@@ -4,5 +4,4 @@ collections:
     output: true
 exclude:
   - scripts
-google_analytics: UA-124804381-1
 theme: jekyll-theme-midnight
