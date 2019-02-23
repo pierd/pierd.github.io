@@ -34,5 +34,5 @@ categories: books
 
 ---
 
-> For weeks now he'd tried to relegate her to some remote corner of his mind, only to have her reemerge when least wanted. Perhaps he was going about it the wrong way; he'd never tried to forget anyone before. But then, he'd never needed to. Relationships between jinn were altogether different. A tryst could be calm or volatile, could last a day or an hour or years on end - and often overlapped with one another in a way that the residents of Little Syria would find completely amoral - byt always they were impermanent.
+> For weeks now he'd tried to relegate her to some remote corner of his mind, only to have her reemerge when least wanted. Perhaps he was going about it the wrong way; he'd never tried to forget anyone before. But then, he'd never needed to. Relationships between jinn were altogether different. A tryst could be calm or volatile, could last a day or an hour or years on end - and often overlapped with one another in a way that the residents of Little Syria would find completely amoral - but always they were impermanent.
 > - *Chapter 23* - p. 429

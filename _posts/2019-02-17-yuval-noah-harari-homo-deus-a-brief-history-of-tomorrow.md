@@ -22,7 +22,7 @@ categories: books
 
 ---
 
-> Liberals, communists and followers of other modern creeds dislike describing their system as a 'religion', because they identify religion with superstitions and supernatural powers. If you tell communists or liberals that they are religious, they think you accuse them of blindly beliving in groundless pipe dreams. In fact, it means only that they believe in some system of moral laws that wasn't invented by humans, but which humans must nevertheless obey. As far as we know, all human societies believe in this.
+> Liberals, communists and followers of other modern creeds dislike describing their system as a 'religion', because they identify religion with superstitions and supernatural powers. If you tell communists or liberals that they are religious, they think you accuse them of blindly believing in groundless pipe dreams. In fact, it means only that they believe in some system of moral laws that wasn't invented by humans, but which humans must nevertheless obey. As far as we know, all human societies believe in this.
 > - *Chapter 5 - The Odd Couple*
 
 ---
@@ -46,7 +46,7 @@ categories: books
 
 ---
 
-> Most of the presidents, ministers and CEOs who run the world are very rational people. Why are they willing to take such a gamble? Maybe because they don't think they are gambling on their own personal future. Even if bad comes to worse and science cannot hold off the deluge, engineers could still build a hi-tech Noah's Ark for the upper caste, while leaving billions of others to drown. The belief in this hi-tech Ark is currently one of the biggest threats to the future of humandkind and of the entire ecosystem. People who believe in the hi-tech Ark should not be put in charge of the global ecology, for the same reason that people who believe in a heavenly after life should not be given nuclear weapons.
+> Most of the presidents, ministers and CEOs who run the world are very rational people. Why are they willing to take such a gamble? Maybe because they don't think they are gambling on their own personal future. Even if bad comes to worse and science cannot hold off the deluge, engineers could still build a hi-tech Noah's Ark for the upper caste, while leaving billions of others to drown. The belief in this hi-tech Ark is currently one of the biggest threats to the future of humankind and of the entire ecosystem. People who believe in the hi-tech Ark should not be put in charge of the global ecology, for the same reason that people who believe in a heavenly after life should not be given nuclear weapons.
 > - *Chapter 6 - The Modern Covenant*
 
 ---
@@ -56,7 +56,7 @@ categories: books
 
 ---
 
-> Interestingly enough, today even religious zealots adopt this humanistic discourse when they want to influence public opinion. For example, every year for the past decade the Isreali LGBT community holds a gay parade in the streets of Jerusalem. It is a unique day of harmony in this conflict-riven city, because it is the one occasion when religious Jews, Muslims and Christians suddenly find a common cause - they all fume in accord against the gay parade. What's really interesting, though, is the argument they use. They don't say, 'You shouldn't hold a gay parade because God forbids homosexuality.' Rather, they explain to every available microphone and TV camera that 'seeing a gay parade passing through the holy city of Jerusalem hurts our feelings. Just as gay people want us to respect their feelings, they should respect ours.'
+> Interestingly enough, today even religious zealots adopt this humanistic discourse when they want to influence public opinion. For example, every year for the past decade the Israeli LGBT community holds a gay parade in the streets of Jerusalem. It is a unique day of harmony in this conflict-riven city, because it is the one occasion when religious Jews, Muslims and Christians suddenly find a common cause - they all fume in accord against the gay parade. What's really interesting, though, is the argument they use. They don't say, 'You shouldn't hold a gay parade because God forbids homosexuality.' Rather, they explain to every available microphone and TV camera that 'seeing a gay parade passing through the holy city of Jerusalem hurts our feelings. Just as gay people want us to respect their feelings, they should respect ours.'
 > - *Chapter 7 - The Humanist Revolution*
 
 ---
@@ -86,7 +86,7 @@ categories: books
 
 ---
 
-> A recent study commissioned by Google's nemesis - Facebook - has indicated that already today the Facebook algorithm is a better judge of human personalities and dispositions even than people's friends, parents and spouses. The study was conducted on 86,220 volunteers who have a Facebook account and who completed a hundred item personality questionnaire. The Facebook algorithm predicted the volunteers' answers based on monitoring their Facebook Likes - which webpages, images and clips they tagged with the Like button. The more Likes, the more accurate the predictions. The algorithm's predictions were compared with those of work colleagues, friends, family members and spouses. Amazingly, the algorithm needed a set of only ten Likes in order to outperform the predictions of work colleagues. It needed seventy Likes to outperform friends, 150 Likes to outperform family members and 300 Likes to outperform spouses. In other words, if you happen to have clicked 300 Likes on your Facebook account, the Facebook algoritm can predict your opinions and desires better than your husband or wife!
+> A recent study commissioned by Google's nemesis - Facebook - has indicated that already today the Facebook algorithm is a better judge of human personalities and dispositions even than people's friends, parents and spouses. The study was conducted on 86,220 volunteers who have a Facebook account and who completed a hundred item personality questionnaire. The Facebook algorithm predicted the volunteers' answers based on monitoring their Facebook Likes - which webpages, images and clips they tagged with the Like button. The more Likes, the more accurate the predictions. The algorithm's predictions were compared with those of work colleagues, friends, family members and spouses. Amazingly, the algorithm needed a set of only ten Likes in order to outperform the predictions of work colleagues. It needed seventy Likes to outperform friends, 150 Likes to outperform family members and 300 Likes to outperform spouses. In other words, if you happen to have clicked 300 Likes on your Facebook account, the Facebook algorithm can predict your opinions and desires better than your husband or wife!
 > - *Chapter 9 - The Great Decoupling*
 
 ---
