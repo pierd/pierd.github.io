@@ -1,0 +1,234 @@
+// render with: dot -Tpng assets/a-visit-from-the-goon-squad.dot > assets/a-visit-from-the-goon-squad.png
+
+digraph characters {
+    graph [pad="0.5", nodesep="1", ranksep="2"];
+
+    sasha [label="Sasha Taylor"]
+    coz [label="Coz"]
+    alex [label="Alex"]
+    bennie [label="Bennie Salazar"]
+
+    collette [label="Collette"]
+    stop_go_sisters [label="Stop/Go sisters", shape="box"]
+    mother_superior [label="Mother Superior"]
+    sows_ear_records [label="Sow's Ear Records", shape="box"]
+    stephanie [label="Stephanie"]
+    chris [label="Christopher"]
+    scotty [label="Scotty Hausmann"]
+    alice [label="Alice"]
+    jocelyn [label="Jocelyn"]
+    rhea [label="Rhea"]
+    dr_beet [label="Dr. Beet"]
+    chandra [label="Chandra"]
+    louisa [label="Louisa"]
+    olivia [label="Olivia"]
+
+    flaming_dildos [label="Flaming Dildos", shape="box"]
+    lou [label="Lou"]
+    bill_graham [label="Bill Graham"]
+    joel [label="Joel"]
+    marty [label="Marty"]
+    charlie [label="Charlene / Charlie"]
+    rolph [label="Rolph"]
+
+    mindy [label="Mindy"]
+    ramsey [label="Ramsey"]
+    albert [label="Albert"]
+    mad_hatters [label="Mad Hatters", shape="box"]
+    chronos [label="Chronos"]
+    bird_watchers [label="bird watchers", shape="box"]
+    mildred [label="Mildred"]
+    fiona [label="Fiona"]
+    dean [label="Dean"]
+    unknown1 [label="?"]
+    unknown2 [label="?"]
+    lulu [label="Lulu"]
+    warrior [label="warrior"]
+    joe [label="Joe"]
+
+    nadine [label="Nadine"]
+
+    dave [label="Dave"]
+    sammy [label="Sammy"]
+
+    kathy [label="Kathy"]
+    clay [label="Clay"]
+    colin [label="Colin"]
+    kitty [label="Kitty Jackson"]
+    jules [label="Jules Jones"]
+    scooter [label="Scooter"]
+    noreen [label="Noreen"]
+    bosco [label="Bosco"]
+    conduits [label="Conduits", shape="box"]
+    dolly [label="La Doll / Dolly Peale"]
+
+    general [label="General B."]
+    arc [label="Arc"]
+
+    drew [label="Drew Blake"]
+    rob [label="Robert Freeman Jr."]
+    coach_freeman [label="Robert Freeman"]
+    lizzie [label="Lizzie"]
+    bix [label="Bix"]
+    lars [label="Lars the Swede"]
+
+    ted [label="Ted Hollander"]
+    beth [label="Beth"]
+    hammer [label="Hammer"]
+    susan [label="Susan"]
+    alfred [label="Alfred"]
+    ames [label="Ames"]
+    miles [label="Miles"]
+    andy [label="Andy"]
+    pinheads [label="Pinheads", shape="box"]
+    wade [label="Wade"]
+
+    alison [label="Alison Blake"]
+    lincoln [label="Lincoln Blake"]
+
+    ava [label="Ava"]
+    cara_ann [label="Cara-Ann"]
+    rebecca [label="Rebecca"]
+    lupa [label="Lupa"]
+
+
+    // Chapter 1 - Found Objects
+    coz -> sasha [label="therapist of"]
+    alex -> sasha [label="slept with", dir="both"]
+    sasha -> bennie [label="assistant of"]
+
+    // Chapter 2 - The Gold Cure
+    collette -> bennie [label="executive producer of"]
+    bennie -> stop_go_sisters [label="signed"]
+    bennie -> mother_superior [label="kissed"]
+    bennie -> sows_ear_records [label="owns"]
+    stephanie -> bennie [label="divorced", dir="both"]
+    chris -> bennie [label="son of"]
+    chris -> stephanie [label="son of"]
+    bennie -> scotty [label="high school friend", dir="both"]
+    bennie -> alice [label="high school friend", dir="both"]
+    bennie -> jocelyn [label="high school friend", dir="both"]
+    bennie -> rhea [label="high school friend", dir="both"]
+    bennie -> dr_beet
+    chris -> dr_beet
+    stop_go_sisters -> chandra [label="is"]
+    stop_go_sisters -> louisa [label="is"]
+    olivia -> louisa [label="daughter of"]
+
+    // Chapter 3 - Ask Me If I care
+    scotty -> alice [label="fascinated by"]
+    bennie -> alice [label="fascinated by"]
+    rhea -> bennie [label="fascinated by"]
+    flaming_dildos -> scotty [label="is"]
+    flaming_dildos -> bennie [label="is"]
+    flaming_dildos -> joel [label="is"]
+    flaming_dildos -> marty [label="is"]
+    jocelyn -> flaming_dildos [label="writes songs for"]
+    rhea -> flaming_dildos [label="writes songs for"]
+    jocelyn -> lou [label="dating", dir="both"]
+    lou -> bill_graham [label="knows personally"]
+    charlie -> lou [label="daughter of"]
+    rolph -> lou [label="son of"]
+    // scotty -> alice [label="dating", dir="both"] // already as "divorced"
+
+    // Chapter 4 - Safari
+    lou -> mindy [label="dating", dir="both"]
+    lou -> ramsey [label="army buddies", dir="both"]
+    albert -> ramsey [label="works for"]
+    lou -> mad_hatters [label="signed"]
+    mad_hatters -> chronos [label="is"]
+    albert -> lioness [label="shots"]
+    lioness -> chronos [label="maims"]
+    bird_watchers -> mildred [label="is"]
+    bird_watchers -> fiona [label="is"]
+    bird_watchers -> lou [label="was on safari with"]
+    dean -> lou [label="on safari with"]
+    dean -> lou [label="works with", dir="both"]
+    mindy -> albert [label="slept with", dir="both"]
+    unknown1 -> mindy [label="daughter of"]
+    unknown2 -> mindy [label="daughter of"]
+    unknown1 -> lou [label="daughter of"]
+    unknown2 -> lou [label="daughter of"]
+    rolph -> rolph [label="shots"]
+    warrior -> charlie [label="smiles at"]
+    joe -> warrior [label="grandson of"]
+    joe -> lulu [label="married", dir="both"]
+
+    // Chapter 5 - You (Plural)
+    nadine -> rhea [label="daughter of"]
+
+    // Chapter 6 - X's and O's
+    scotty -> alice [label="divorced", dir="both"]
+    scotty -> dave [label="fishes with", dir="both"]
+    scotty -> sammy [label="fishes with", dir="both"]
+
+    // Chapter 7 - A to B
+    stephanie -> kathy [label="plays tennis with", dir="both"]
+    clay -> kathy [label="husband of"]
+    colin -> kathy [label="son of"]
+    colin -> clay [label="son of"]
+    colin -> chris [label="classmate", dir="both"]
+    jules -> stephanie [label="brother of"]
+    jules -> kitty [label="assaulted"]
+    scooter -> chris [label="babysits"]
+    stephanie -> noreen [label="neighbour", dir="both"]
+    bennie -> conduits [label="signed"]
+    conduits -> bosco [label="is"]
+    dolly -> stephanie [label="boss of"]
+    bennie -> kathy [label="slept with", dir="both"]
+
+    // Chapter 8 - Selling the General
+    dolly -> general [label="works for"]
+    arc -> general [label="works for"]
+    lulu -> dolly [label="daughter of"]
+    dolly -> kitty [label="hires"]
+    kitty -> general [label="enrages"]
+
+    // Chapter 9 - Forty-Minute Lunch: Kitty Jackson Opens Up About Love, Fame, and Nixon!
+    // nothing new
+
+    // Chapter 10 - Out of Body
+    // drew -> sasha [label="dating", dir="both"]   // included in Chapter 12
+    rob -> coach_freeman [label="son of"]
+    drew -> rob [label="friend of", dir="both"]
+    drew -> lizzie [label="friend of", dir="both"]
+    bix -> lizzie [label="dating", dir="both"]
+    rob -> sasha [label="good friend of", dir="both"]
+    sasha -> lars [label="thought was dating"]
+
+    // Chapter 11 - Good-bye, My Love
+    ted -> sasha [label="looks for"]
+    ted -> beth [label="brother of"]
+    sasha -> beth [label="daughter of"]
+    sasha -> andy [label="daughter of"]
+    hammer -> beth [label="husband of"]
+    susan -> ted [label="wife of"]
+    alfred -> ted [label="son of"]
+    alfred -> susan [label="son of"]
+    ames -> ted [label="son of"]
+    ames -> susan [label="son of"]
+    miles -> ted [label="son of"]
+    miles -> susan [label="son of"]
+    pinheads -> wade [label="is"]
+    sasha -> wade [label="ran away with"]
+    wade -> sasha [label="left"]
+    beth -> andy [label="divorced", dir="both"]
+
+    // Chapter 12 - Great Rock and Roll Pauses
+    drew -> sasha [label="dating + married", dir="both"]
+    alison -> sasha [label="daughter of"]
+    alison -> drew [label="daughter of"]
+    lincoln -> sasha [label="son of"]
+    lincoln -> drew [label="son of"]
+
+    // Chapter 13 - Pure Language
+    alex -> bennie [label="works for"]
+    ava -> bennie [label="daughter of"]
+    ava -> lupa [label="daughter of"]
+    cara_ann -> alex [label="daughter of"]
+    cara_ann -> rebecca [label="daughter of"]
+    rebecca -> alex [label="married", dir="both"]
+    lupa -> bennie [label="married", dir="both"]
+    alex -> scotty [label="looks for parrots to promote"]
+    lulu -> bennie [label="assistant of"]
+}
