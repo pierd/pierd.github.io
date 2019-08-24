@@ -1,5 +1,5 @@
 ---
-title: Hunter S. Thompson "The Great Shark Hung"
+title: Hunter S. Thompson "The Great Shark Hunt"
 layout: post
 categories: books
 ---
