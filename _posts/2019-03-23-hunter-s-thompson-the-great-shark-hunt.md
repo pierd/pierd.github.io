@@ -17,8 +17,8 @@ categories: books
 
 ---
 
-> By this time Ralph wouldn't even order coffee; he kept asking for more water. "It's the only thing they have that's fit for human consumption," he explained. Then, with an hour or so to kill before he had to catch the plane, we spread his drawings out on the table and pondered them for a while, wondering if he'd caught the proper spirit of the thing... but we couldn't make up our minds. His hands were shaking so badly that he had trouble holding the paper, and my vision was so blurred that I could barely see what he'd drawn. "Shit," I said. "We both look worse than anything you've drawn here."
-> He smiled. "You know - I've been thinking about that," he said, "We came down here to see this teddible scene: people all pissed out of their minds and vomiting on themselves and all that... and now, you know what? It's us..."
+> By this time Ralph wouldn't even order coffee; he kept asking for more water. "It's the only thing they have that's fit for human consumption," he explained. Then, with an hour or so to kill before he had to catch the plane, we spread his drawings out on the table and pondered them for a while, wondering if he'd caught the proper spirit of the thing... but we couldn't make up our minds. His hands were shaking so badly that he had trouble holding the paper, and my vision was so blurred that I could barely see what he'd drawn. "Shit," I said. "We both look worse than anything you've drawn here."<br/>
+> He smiled. "You know - I've been thinking about that," he said, "We came down here to see this teddible scene: people all pissed out of their minds and vomiting on themselves and all that... and now, you know what? It's us..."<br/>
 > - *The Kentucky Derby Is Decandent and Depraved*
 
 ---
@@ -38,13 +38,13 @@ categories: books
 
 ---
 
-> Ah, Jesus... another bad tangent. Somewhere in the back of my mind I recall signing a contract that said I would never do this kind of thing again; one of the conditions of my turning pro was a clause about swearing off gibberish...
+> Ah, Jesus... another bad tangent. Somewhere in the back of my mind I recall signing a contract that said I would never do this kind of thing again; one of the conditions of my turning pro was a clause about swearing off gibberish...<br/>
 > But, like Gregg Allman says: "I've wasted so much time... feelin guilty...."
 > - *Fear and Loathing at the Super Bowl*
 
 ---
 
-> "I got nothing personal against Thompson," he told another NFL player who happened to be skiing in Aspen at the time: "But let's face it, we've got nothing to gain by talking to him. I've read all his stuff and I know how he is; he's a goddamn lunatic - and you've got to be careful with a bastard like that, because no matter how hard he tries, he just can't help but tell the truth."
+> "I got nothing personal against Thompson," he told another NFL player who happened to be skiing in Aspen at the time: "But let's face it, we've got nothing to gain by talking to him. I've read all his stuff and I know how he is; he's a goddamn lunatic - and you've got to be careful with a bastard like that, because no matter how hard he tries, he just can't help but tell the truth."<br/>
 > When I heard that I just sort of slumped down on my bar-stool and stared at myself in the mirror... wishing, on one level, that Keating's harsh judgment was right... but knowing, on another, that the treacherous realities of the worlds I especially work in forced me to abandon that purist stance a long time ago. If I'd written all the truth I knew for the past ten years, about 600 people - including me - would be rotting in prison cells from Rio to Seattle today. Absolute truth is a very rare and dangerous commodity in the context of professional journalism.
 > - *Fear and Loathing at the Super Bowl*
 
@@ -55,8 +55,8 @@ categories: books
 
 ---
 
-> More or less... and this qualifier is the essence of what, for no particular reason, I've decided to call Gonzo Journalism. It is a style of "reporting" based on William Faulkner's idea that the best fiction is far more _true_ than any kind of journalism - and the best journalists have always known this.
-> Which is not to say that Fiction is necessarily "more true" than Journalism - or vice versa - but that both "fiction" and "journalism" are artificial categories; and that both forms, at their best, are only two different means to the same end. This is getting pretty heavy... so I should cut back and explain, at this point, that _Fear & Loathing in Las Vegas_ is a _failed experiment_ in Gonzo Journalism. My idea was to buy a fat notebook and record the whole thing, _as it happened_, then send in the notebook for publication - without editing. That way, I felt, the eye & mind of the journalist would be functioning as a camera. The writing would be selective & necessarily interpretive - but once the image was written, the words would be final; in the same way that a Cartier-Bresson photograph is always (he says) the full-frame negative. No alterations in the darkroom, no cutting or cropping, no spotting... no editing.
+> More or less... and this qualifier is the essence of what, for no particular reason, I've decided to call Gonzo Journalism. It is a style of "reporting" based on William Faulkner's idea that the best fiction is far more _true_ than any kind of journalism - and the best journalists have always known this.<br/>
+> Which is not to say that Fiction is necessarily "more true" than Journalism - or vice versa - but that both "fiction" and "journalism" are artificial categories; and that both forms, at their best, are only two different means to the same end. This is getting pretty heavy... so I should cut back and explain, at this point, that _Fear & Loathing in Las Vegas_ is a _failed experiment_ in Gonzo Journalism. My idea was to buy a fat notebook and record the whole thing, _as it happened_, then send in the notebook for publication - without editing. That way, I felt, the eye & mind of the journalist would be functioning as a camera. The writing would be selective & necessarily interpretive - but once the image was written, the words would be final; in the same way that a Cartier-Bresson photograph is always (he says) the full-frame negative. No alterations in the darkroom, no cutting or cropping, no spotting... no editing.<br/>
 > But this is a hard thing to do, and in the end I found myself imposing an essentially fictional framework on what began as a piece of straight/crazy journalism. True Gonzo reporting needs the talents of master journalist, the eye of an artist/photograper and the heavy balls of an actor. Because the writer _must_ be a participant in the scene, while he's writing it - or at least taping it, or even sketching it. Or all three. Probably the closest analogy to the ideal would be a film director/producer who writes his own scripts, does his own camera work and somehow manages to film himself in action, as the protagonist or at least a main character.
 > - *Jacket Copy for Fear & Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream*
 

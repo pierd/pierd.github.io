@@ -32,10 +32,10 @@ categories: books
 
 ---
 
-> When we leave the ethereal sphere of philosophy and observe historical realities, we find that religious stories almost always include three parts:
-> 1. Ethical judgements, such as 'human life is sacred'.
-> 2. Factual statements, such as 'human life begins at the moment of conception'.
-> 3. A conflation of the ethical judgements with the factual statements, resulting in practical guidelines such as 'you should never allow abortion, even a single day after conception'.
+> When we leave the ethereal sphere of philosophy and observe historical realities, we find that religious stories almost always include three parts:<br/>
+> 1. Ethical judgements, such as 'human life is sacred'.<br/>
+> 2. Factual statements, such as 'human life begins at the moment of conception'.<br/>
+> 3. A conflation of the ethical judgements with the factual statements, resulting in practical guidelines such as 'you should never allow abortion, even a single day after conception'.<br/>
 > Science has no authority or ability to refute or corroborate the ethical judgements religions make. But scientists do have a lot to say about religious factual statements. For example, biologists are more qualified than priests to answer factual questions such as 'Do human fetuses have a nervous system one week after conception? Can they feel pain?'
 > - *Chapter 5 - The Odd Couple*
 
@@ -101,7 +101,7 @@ categories: books
 
 ---
 
-> 1. Are organisms really just algorithms, and is life really just data processing?
-> 2. What's more valuable - intelligence or consciousness?
+> 1. Are organisms really just algorithms, and is life really just data processing?<br/>
+> 2. What's more valuable - intelligence or consciousness?<br/>
 > 3. What will happen to society, politics and daily life when non-conscious but highly intelligent algorithms know us better than we know ourselves?
 > - *Chapter 11 - The Data Religion*

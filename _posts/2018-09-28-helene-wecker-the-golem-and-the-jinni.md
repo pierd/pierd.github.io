@@ -19,16 +19,11 @@ categories: books
 
 ---
 
-> "A man tells you to believe, and you believe?"
-
-> "It depends on the man. Besides, you believe the stories that *you* were told. Have you met a jinni who could grant wishes?"
-
-> "No, but that ability has all but disappeared."
-
-> "So, it's just stories now. And perhaps the humans did create their God. But does that make him less real? Take this arch. They created it. Now it exists."
-
-> "Yes, but it doesn't grant wishes," he said. "It doesn't do *anything*."
-
+> "A man tells you to believe, and you believe?"<br/>
+> "It depends on the man. Besides, you believe the stories that *you* were told. Have you met a jinni who could grant wishes?"<br/>
+> "No, but that ability has all but disappeared."<br/>
+> "So, it's just stories now. And perhaps the humans did create their God. But does that make him less real? Take this arch. They created it. Now it exists."<br/>
+> "Yes, but it doesn't grant wishes," he said. "It doesn't do *anything*."<br/>
 > "True," she said. "But I look at it, and I feel a certain way. Maybe that's its purpose."
 > - *Chapter 16* - p. 267
 

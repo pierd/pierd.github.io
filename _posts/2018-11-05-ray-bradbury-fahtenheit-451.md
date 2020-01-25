@@ -12,16 +12,16 @@ categories: books
 
 ---
 
-> "You weren't there, you didn't see," he said. "There must be something in books, things we can't imagine, to make a woman stay in a burning house; there must be something there. You don't stay for nothing."
-> "she was simple-minded."
+> "You weren't there, you didn't see," he said. "There must be something in books, things we can't imagine, to make a woman stay in a burning house; there must be something there. You don't stay for nothing."<br/>
+> "she was simple-minded."<br/>
 > "She was a rational as you and I, more so perhaps, and we burned her."
 > - *One: The Hearth and the Salamander*
 
 ---
 
-> "Last night I thought about all that kerosene I've used in the past ten years. And I thought about books. And for the first time I realized that a man was behind each one of the books. A man hand to think them up. A man had to take a long time to put them on paper. And I'd never even thought that thought before." He got out of bed.
-> "It took some man a lifetime maybe to put some of his thoughts down, looking around at the world and life and then I come along in two minutes and boom! it's all over."
-> "Let me alone," said Mildred. "I didn't do anything."
+> "Last night I thought about all that kerosene I've used in the past ten years. And I thought about books. And for the first time I realized that a man was behind each one of the books. A man hand to think them up. A man had to take a long time to put them on paper. And I'd never even thought that thought before." He got out of bed.<br/>
+> "It took some man a lifetime maybe to put some of his thoughts down, looking around at the world and life and then I come along in two minutes and boom! it's all over."<br/>
+> "Let me alone," said Mildred. "I didn't do anything."<br/>
 > "Let you alone! That's all very well, but how can I leave myself alone? We need not to let alone. We need to be really bothered once in a while. How long is it since you were *really* bothered? About something important, about something real?"
 > - *One: The Hearth and the Salamander*
 
@@ -42,18 +42,18 @@ categories: books
 
 ---
 
-> "Leisure."
-> "Oh, but we've plenty of off hours."
+> "Leisure."<br/>
+> "Oh, but we've plenty of off hours."<br/>
 > "Off hours, yes. But time to think? If you're not driving a hundred miles an hour, at a clip where you can't think of anything else but the danger, then you're playing some game or sitting in some room where you can't argue with the four-wall televisor. Why? The televisor is 'real'. It is immediate, it has dimension. It tells you what to think and blasts it in. It *must* be right. It *seems* so right. It rushes you on so quickly to its own conclusions your mind hasn't time to protest, 'What nonsense!'"
 > - *Two: The Sieve and the Sand*
 
 ---
 
-> "I'm not thinking. I'm just doing like I'm told, like always. You said get the money and I got it. I didn't really think of it myself. When do I start working things out on my own?"
-> "You've started already, by saying what you just said. You'll have to take me on faith."
-> "I took the others on faith!"
-> "Yes, and look where we're headed. You'll have to travel blind for awhile. Here's my arm to hold onto."
-> "I don't want to change sides and just be *told* what to do. There's not reason to change if I do that."
+> "I'm not thinking. I'm just doing like I'm told, like always. You said get the money and I got it. I didn't really think of it myself. When do I start working things out on my own?"<br/>
+> "You've started already, by saying what you just said. You'll have to take me on faith."<br/>
+> "I took the others on faith!"<br/>
+> "Yes, and look where we're headed. You'll have to travel blind for awhile. Here's my arm to hold onto."<br/>
+> "I don't want to change sides and just be *told* what to do. There's not reason to change if I do that."<br/>
 > "You're wise already!"
 > - *Two: The Sieve and the Sand*
 

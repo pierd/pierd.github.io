@@ -7,11 +7,11 @@ categories: books
 
 ---
 
-> "What is he like?"
-> "The physique of a Messiah. Bot too clever to believe in God or be convinced of his own mission. And too sensitive, even if he were convinced, to carry it out. His muscles would like to act and his feelings would like to believe; but his nerve endings and his cleverness won't allow it."
-> "So I suppose he's very unhappy."
-> "So unhappy that he has to laugh like a hyena."
-> "Does he know he laughs like a hyena?"
+> "What is he like?"<br/>
+> "The physique of a Messiah. Bot too clever to believe in God or be convinced of his own mission. And too sensitive, even if he were convinced, to carry it out. His muscles would like to act and his feelings would like to believe; but his nerve endings and his cleverness won't allow it."<br/>
+> "So I suppose he's very unhappy."<br/>
+> "So unhappy that he has to laugh like a hyena."<br/>
+> "Does he know he laughs like a hyena?"<br/>
 > "Knows and is rather proud of it. Even makes epigrams about it. 'I'm the man who won't take yes for an answer.'"
 
 ---
@@ -20,32 +20,32 @@ categories: books
 
 ---
 
-> The little nurse gave him his injection of antibiotic, then, from one of the bottles in her bag, stirred a tablespoonful of some greenish liquid into half a glass of water.
-> "Drink this."
+> The little nurse gave him his injection of antibiotic, then, from one of the bottles in her bag, stirred a tablespoonful of some greenish liquid into half a glass of water.<br/>
+> "Drink this."<br/>
 > It tasted like one of those herbal concoctions that health-food enthusiasts substitute for tea.
 
 ---
 
-> "So you think our medicine's pretty primitive?"
-> "That's the wrong word. It isn't primitive. It's fifty percent terrific and fifty percent nonexistent. Marvellous antibiotics - but absolutely no methods for increasing resistance, so that antibiotics won't be necessary. Fantastic operations - but when it comes to teaching people the way of going through life without having to be chopped up, absolutely nothing. And it's the same all along the line. Alpha Plus for patching you up when you've started to fall apart; but Delta Minus for keeping you healthy. Apart from sewerage systems and synthetic vitamins, you don't seem to do anything at all about prevention. And yet you've got a proverb: prevention is better than cure."
+> "So you think our medicine's pretty primitive?"<br/>
+> "That's the wrong word. It isn't primitive. It's fifty percent terrific and fifty percent nonexistent. Marvellous antibiotics - but absolutely no methods for increasing resistance, so that antibiotics won't be necessary. Fantastic operations - but when it comes to teaching people the way of going through life without having to be chopped up, absolutely nothing. And it's the same all along the line. Alpha Plus for patching you up when you've started to fall apart; but Delta Minus for keeping you healthy. Apart from sewerage systems and synthetic vitamins, you don't seem to do anything at all about prevention. And yet you've got a proverb: prevention is better than cure."<br/>
 > "But cure," said Will, "is so much more dramatic than prevention. And for the doctors it's also a lot more profitable."
 
 ---
 
-> "It's a funny thing," she said reflectively, "but in Pala we have hardly any addicts."
-> "Not even sec addicts?"
-> "The sec addicts are also person addicts. In other words, they're lovers."
-> "But even lovers sometimes hate the people they love."
+> "It's a funny thing," she said reflectively, "but in Pala we have hardly any addicts."<br/>
+> "Not even sec addicts?"<br/>
+> "The sec addicts are also person addicts. In other words, they're lovers."<br/>
+> "But even lovers sometimes hate the people they love."<br/>
 > "Naturally. Because I always have the same name and the same nose and eyes, it doesn't follow that I'm always the same woman. Recognizing that fact and reacting to it sensibly - that's part of the Art of Loving."
 
 ---
 
-> "Here and now, boys," the mynah repeated. "Here and now, boys. Here and-"
-> "Shut up!"
-> There was silence.
-> "I had to shut him up," Will explained, "because of course he's absolutely right. Here, boys; now, boys. Then and there are absolutely irrelevant. Or aren't they? What about your husband's death, for example? Is that irrelevant?"
-> Susila looked at him for a moment in silence, then slowly nodded her head. "In the context of what I have to do now - yes, completely irrelevant. That's something I had to learn."
-> "Does one learn how to forget?"
+> "Here and now, boys," the mynah repeated. "Here and now, boys. Here and-"<br/>
+> "Shut up!"<br/>
+> There was silence.<br/>
+> "I had to shut him up," Will explained, "because of course he's absolutely right. Here, boys; now, boys. Then and there are absolutely irrelevant. Or aren't they? What about your husband's death, for example? Is that irrelevant?"<br/>
+> Susila looked at him for a moment in silence, then slowly nodded her head. "In the context of what I have to do now - yes, completely irrelevant. That's something I had to learn."<br/>
+> "Does one learn how to forget?"<br/>
 > "It isn't a matter of forgetting. What one has to learn is how to remember and yet to be free of the past. How to be there with the dead and yet still be here, on the spot, with the living." She gave him a sad little smile and added, "It isn't easy."
 
 ---
@@ -54,9 +54,9 @@ categories: books
 
 ---
 
-> Vijaya laughed. "You seem to imagine we do it for ethical reasons."
-> "Don't you?"
-> "Certainly not. I do muscular work, because I have muscles; and if I don't use my muscles I shall become a bad-tempered sitting-addict."
+> Vijaya laughed. "You seem to imagine we do it for ethical reasons."<br/>
+> "Don't you?"<br/>
+> "Certainly not. I do muscular work, because I have muscles; and if I don't use my muscles I shall become a bad-tempered sitting-addict."<br/>
 > "With nothing between the cortex and the buttocks," said Dr. Robert. "Or rather with everything - but in a condition of complete unconsciousness and toxic stagnation. Western intellectuals are all sitting-addicts. That's why most of you are so repulsively unwholesome. In the past even a duke had to do a lot of walking, even a moneylender, even a metaphysician. And when they weren't using their legs, they were jogging about on horses. Whereas now, from the tycoon to this typist, from the logical positivist to the positive thinker, you spend nine tenths of your time on foam rubber. Spongy seats for spongy bottoms - at home, in the office, in cars and bars, in planes and trains and buses. No moving of legs, no struggles with distance and gravity - just lifts and planes and cards, just foam rubber and an eternity of sitting. The life force that used to find an outlet through striped muscle gets turned back on the viscera and nervous system, and slowly destroys them."
 
 ---

@@ -22,14 +22,14 @@ categories: books
 
 ---
 
-> My mother, of course, had already lectured me at length on the appallingness of *that* word. So had Sam, who was usually more moderate when it came to such things.
-> 'It's a vulgar, obnoxious, *male* word,' Sam said, which confused me for quite some time.
-> 'Why's it a *male* word?' I asked.
-> Sam looked at me for a few moments to gauge whether or not I was being deliberately stupid, then said: 'You do know what that word means, don't you?'
-> 'Of course I know what it means!' I searched my mental thesaurus, ruled out every alternative, then said: 'It refers to the part of the woman where babies come out.'
-> 'Exactly! And you can see why that's demeaning, can't you? You can see why it's *so* offensive?'
-> I thought about this for a while. 'No, Not really,' I concluded. 'I mean, I wasn't actually using it in that context. Also, surely what's so offensive is that the word's so offensive, rather than the word itself?'
-> Same made me repeat this sentence, then told me I was being pedantic and perpetuating a sexist mindset. I felt quite aggrieved by this.
+> My mother, of course, had already lectured me at length on the appallingness of *that* word. So had Sam, who was usually more moderate when it came to such things.<br/>
+> 'It's a vulgar, obnoxious, *male* word,' Sam said, which confused me for quite some time.<br/>
+> 'Why's it a *male* word?' I asked.<br/>
+> Sam looked at me for a few moments to gauge whether or not I was being deliberately stupid, then said: 'You do know what that word means, don't you?'<br/>
+> 'Of course I know what it means!' I searched my mental thesaurus, ruled out every alternative, then said: 'It refers to the part of the woman where babies come out.'<br/>
+> 'Exactly! And you can see why that's demeaning, can't you? You can see why it's *so* offensive?'<br/>
+> I thought about this for a while. 'No, Not really,' I concluded. 'I mean, I wasn't actually using it in that context. Also, surely what's so offensive is that the word's so offensive, rather than the word itself?'<br/>
+> Same made me repeat this sentence, then told me I was being pedantic and perpetuating a sexist mindset. I felt quite aggrieved by this.<br/>
 > '*I* didn't make it the worst word in the world,' I said.
 > - schooled after using the word *cunt* - *Chapter 12 - Piercing* - p. 160
 
