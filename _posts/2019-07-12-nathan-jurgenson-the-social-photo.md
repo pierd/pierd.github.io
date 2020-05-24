@@ -1,5 +1,5 @@
 ---
-title: Nathan Jurgenson "The Social Photo: On Photography and Social Media"
+title: "Nathan Jurgenson \"The Social Photo: On Photography and Social Media\""
 layout: post
 categories: books
 ---
