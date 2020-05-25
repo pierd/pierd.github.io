@@ -11,5 +11,7 @@ docker build -t jekyll .
 
 Run jekyll container with the page mounted and port exposed:
 ```
-docker run --mount type=bind,source="$(pwd)",destination=/home/jekyll,consistency=cached -p 4000:4000 jekyll
+docker run --mount type=bind,source="$(pwd)",destination=/home/jekyll,consistency=cached -p 4000:4000 -t jekyll
 ```
+
+And open it in a browser: http://127.0.0.1:4000
