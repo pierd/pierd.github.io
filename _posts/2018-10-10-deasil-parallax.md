@@ -28,6 +28,6 @@ _TODO: Explain: hashing coords to get the seed and using it for new PRNG_
 
 It gives nice feeling of the space and makes controlling the ship easier because now you can see your velocity.
 
-![Parallax]({{ "/assets/deasil-parallax.gif" | absolute_url }})
+![Parallax]({{ "/assets/deasil-parallax.gif" | relative_url }})
 
 Deasil is more of a prototype and a learning project. For a real one this parallax would have to be implemented using shaders to offload the computation from CPU. You can find the current simple implementation [here](https://github.com/deasilgame/deasil/blob/2a9b80e66610191ea92cc2d4979bcdc2147aeed7/src/frontend_piston/rendering.rs#L128).

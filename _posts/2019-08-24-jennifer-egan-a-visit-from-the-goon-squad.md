@@ -7,8 +7,8 @@ categories: books
 
 # Relations between characters
 
-![Relations]({{ "/assets/a-visit-from-the-goon-squad.png" | absolute_url }})
-[full image]({{ "/assets/a-visit-from-the-goon-squad.png" | absolute_url }})
+![Relations]({{ "/assets/a-visit-from-the-goon-squad.png" | relative_url }})
+[full image]({{ "/assets/a-visit-from-the-goon-squad.png" | relative_url }})
 
 # Structure
 

@@ -3,7 +3,7 @@ title: Octavia E. Butler "Bloodchild and Other Stories"
 layout: post
 categories: books
 ---
-![Cover]({{ "/assets/octavia-butler-bloodchild.jpg" | absolute_url }})
+![Cover]({{ "/assets/octavia-butler-bloodchild.jpg" | relative_url }})
 
 [on Goodreads](https://www.goodreads.com/book/show/60930.Bloodchild_and_Other_Stories)
 

@@ -3,7 +3,7 @@ title: Helene Wecker "The Golem and the Jinni"
 layout: post
 categories: books
 ---
-![Cover]({{ "/assets/helene-wecker-the-golem-and-the-jinni.jpg" | absolute_url }})
+![Cover]({{ "/assets/helene-wecker-the-golem-and-the-jinni.jpg" | relative_url }})
 
 [on Goodreads](https://www.goodreads.com/book/show/15819028-the-golem-and-the-jinni)
 

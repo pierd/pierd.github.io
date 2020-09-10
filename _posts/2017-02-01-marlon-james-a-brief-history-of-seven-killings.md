@@ -3,7 +3,7 @@ title: Marlon James "A Brief History of Seven Killings"
 layout: post
 categories: books
 ---
-![Cover]({{ "/assets/marlon-james-a-brief-history-of-seven-killings.jpg" | absolute_url }})
+![Cover]({{ "/assets/marlon-james-a-brief-history-of-seven-killings.jpg" | relative_url }})
 
 [on Goodreads](https://www.goodreads.com/book/show/25694095-a-brief-history-of-seven-killings)
 

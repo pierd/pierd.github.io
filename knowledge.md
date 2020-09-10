@@ -12,10 +12,10 @@
 
   - {{ parts[1] }}
 {% endif %}
-    - [{{ page.title }}]({{ page.url | absolute_url }})
+    - [{{ page.title }}]({{ page.url | relative_url }})
 {% else %}
 
-  - [{{ page.title }}]({{ page.url | absolute_url }})
+  - [{{ page.title }}]({{ page.url | relative_url }})
 {% endif %}
 {% assign last_dir = parts[1] %}
 {% endfor %}

@@ -3,7 +3,7 @@ title: Italo Calvino "Jeśli zimową nocą podróżny"
 layout: post
 categories: books
 ---
-![Cover]({{ "/assets/italo-calvino-jesli-zimowa-noca-podrozny.jpg" | absolute_url }})
+![Cover]({{ "/assets/italo-calvino-jesli-zimowa-noca-podrozny.jpg" | relative_url }})
 
 [on Goodreads](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler)
 

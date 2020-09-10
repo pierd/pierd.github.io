@@ -3,7 +3,7 @@ title: Barack Obama "Dreams From My Father"
 layout: post
 categories: books
 ---
-![Cover]({{ "/assets/barack-obama-dreams-from-my-father.jpg" | absolute_url }})
+![Cover]({{ "/assets/barack-obama-dreams-from-my-father.jpg" | relative_url }})
 
 [on Goodreads](https://www.goodreads.com/book/show/2719592-dreams-from-my-father)
 
