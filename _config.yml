@@ -2,7 +2,5 @@ author: Kuba
 collections:
   knowledge:
     output: true
-exclude:
-  - scripts
 goatcounter: pierd_github_io
 theme: jekyll-theme-midnight
