@@ -1,4 +1,4 @@
-FROM ruby:slim-buster
+FROM ruby:2.7-slim-buster
 
 RUN apt-get update && apt-get install -y \
     build-essential \
