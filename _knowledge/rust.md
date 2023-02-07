@@ -25,8 +25,10 @@ Tools:
 - [Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
+- [The Little Book of Rust Macros](https://veykril.github.io/tlborm/)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 - [Rust Atomics and Locks](https://marabos.nl/atomics/)
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - a 4 day Rust course by Android team
 
 ## Code coverage
 
