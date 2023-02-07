@@ -13,4 +13,10 @@ Useful global git settings in `~/.gitconfig` file.
 [core]
 	excludesfile = ~/.gitignore
 	pager = less -FXR
+
+[init]
+	defaultBranch = main
+
+[pager]
+	branch = false
 ```
