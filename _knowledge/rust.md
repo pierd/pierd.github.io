@@ -29,6 +29,7 @@ Tools:
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 - [Rust Atomics and Locks](https://marabos.nl/atomics/)
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/) - a 4 day Rust course by Android team
+- [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/)
 
 ## Code coverage
 
@@ -75,4 +76,5 @@ More info why is [here](https://github.com/rust-lang/rust/issues/39915).
 
 ## Utilities
 
-- [cargo-watch](https://github.com/watchexec/cargo-watch)
+- [cargo-watch](https://github.com/watchexec/cargo-watch) - watch for changes and execute
+- [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
