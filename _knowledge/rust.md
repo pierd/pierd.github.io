@@ -18,6 +18,7 @@ Important to use `RUSTFLAGS="-C target-cpu=native"` to let the compiler use inst
 Tools:
 - [Criterion](https://github.com/bheisler/criterion.rs) - standard (almost everyone uses this one)
 - [Bencher](https://github.com/bluss/bencher/) - an old port
+- [rustfilt](https://github.com/luser/rustfilt) - demangle Rust symbols
 
 ## Books
 
@@ -74,7 +75,15 @@ rustflags = ["-C", "link-arg=-fuse-ld=/usr/local/bin/zld"
 
 More info why is [here](https://github.com/rust-lang/rust/issues/39915).
 
+## Logging / tracing
+
+- [log](https://github.com/rust-lang/log) + [env_logger](https://github.com/rust-cli/env_logger/)
+- [tracing](https://github.com/tokio-rs/tracing)
+- [bunyan](https://github.com/lukemathwalker/bunyan) - pretty printing JSON logs
+
 ## Utilities
 
 - [cargo-watch](https://github.com/watchexec/cargo-watch) - watch for changes and execute
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - expand macros
+- [cargo-msrv](https://github.com/foresterre/cargo-msrv) - find the minimum supported Rust version
+- [cargo-udeps](https://github.com/est31/cargo-udeps) - find unused deps
